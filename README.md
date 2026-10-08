@@ -1,7 +1,6 @@
 # MCB 536: Tools for Computational Biology
 
-This document is the syllabus for this course.
-
+This document is the syllabus for this course. 
 
 - [MCB 536: Tools for Computational Biology](#mcb-536-tools-for-computational-biology)
   - [Class schedule](#class-schedule)
@@ -12,6 +11,7 @@ This document is the syllabus for this course.
   - [Teaching Assistants](#teaching-assistants)
 
 ## Class schedule
+all day every day :P
 
 Time: 3:30PM-4:50PM, Tue & Thu, Oct 1 - Dec 8 2026
 
